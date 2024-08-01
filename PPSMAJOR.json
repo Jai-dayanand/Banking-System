@@ -1,0 +1,58 @@
+{
+   "Account holder 1":
+      {   
+         "Name": "Tanmay Choudhary",
+         "Customer ID":  410,
+         "Account Number": 96997580,
+         "Password": "tan_c.410",
+         "Account type": "Savings Account",
+         "Balance": 105659
+      },
+
+    "Account holder 2":
+      {
+         "Name": "Jai Dayanand",
+         "Customer ID": 230,
+         "Account Number": 96997581,
+         "Password": "jai_d.230",
+         "Account type": "Salary Account",
+         "Balance": 50800
+      },
+
+    "Account holder 3":
+      {
+         "Name": "Palak Gada",
+         "Customer ID": 687,
+         "Account Number": 96997582 ,
+         "Password": "pal_g.687",
+         "Account type":"Current Account",
+         "Balance": 10500
+      },
+
+    "Account holder 4":
+      {
+         "Name": "Kamal Mistry",
+         "Customer ID": 123,
+         "Account Number": 96997583 ,
+         "Password": "kam_m.123",
+         "Account type":"Fixed deposit Account",
+         "Balance": 200000
+      },
+
+   "Account holder 5":                 
+      {
+         "Name": "Tista Basak",
+         "Customer ID": 587,
+         "Account Number": 96997584,
+         "Password": "tis_b.587",
+         "Account type":"Savings Account",
+         "Balance": 80700
+      },
+   
+   "Account holder 6":                 
+      {
+         "Customer ID": 481,
+         "Account Number": 96997585       
+      }
+      
+   }
